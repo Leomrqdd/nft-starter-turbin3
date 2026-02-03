@@ -48,3 +48,13 @@ Run after you have the metadata URI from `nft_metadata.ts`.
 
 - **Mint:** [Explorer](https://explorer.solana.com/tx/5gsA3ewcZqdzj6fFDjF747J5odHvauAEM5XpjnYw2oqGfjB5Xf83wvYh3dDkhQj6cMxuhWiTVKPKN6yfJGSrqQV7?cluster=devnet)
 - **Transfer:** [Explorer](https://explorer.solana.com/tx/5YfRQmuKZSLXMRXLr5Q65HTFHZbksU4KShp7a3iBBg8VZkFvDgogAeyswtnUAnWYjbsNVSfPQ5Yta7FCKHGBx5JD?cluster=devnet&customUrl=http%3A%2F%2F127.0.0.1%3A8899)
+
+**Reflections about trading NFTs this way**
+
+Each NFT we mint here as a Max Total Supply of 1. It is not really made for trading as liquidity is very low. 
+If we want to trade it, we would need to make a lot of different pictures manually and regroup them inside a collection.
+Furthermore, when we transfer the NFT we need to make a complex transaction that cost more than a basic transfer. In my example, it cost 0.002 SOL.
+
+To make our NFT more tradable, we could use the Candy Machine of Metaplex that would allow to create a structure loaded by creators (multiple pictures, maybe randomly generated with a similar pattern) and then minted by buyers.
+
+
