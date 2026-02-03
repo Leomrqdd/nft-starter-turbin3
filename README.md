@@ -44,5 +44,7 @@ Run after you have the metadata URI from `nft_metadata.ts`.
 
 ![NFT mint screenshot](ts/mint_screenshot.png)
 
-**Transaction (devnet):**  
-https://explorer.solana.com/tx/5gsA3ewcZqdzj6fFDjF747J5odHvauAEM5XpjnYw2oqGfjB5Xf83wvYh3dDkhQj6cMxuhWiTVKPKN6yfJGSrqQV7?cluster=devnet
+**Transactions (devnet):**
+
+- **Mint:** [Explorer](https://explorer.solana.com/tx/5gsA3ewcZqdzj6fFDjF747J5odHvauAEM5XpjnYw2oqGfjB5Xf83wvYh3dDkhQj6cMxuhWiTVKPKN6yfJGSrqQV7?cluster=devnet)
+- **Transfer:** [Explorer](https://explorer.solana.com/tx/5YfRQmuKZSLXMRXLr5Q65HTFHZbksU4KShp7a3iBBg8VZkFvDgogAeyswtnUAnWYjbsNVSfPQ5Yta7FCKHGBx5JD?cluster=devnet&customUrl=http%3A%2F%2F127.0.0.1%3A8899)
