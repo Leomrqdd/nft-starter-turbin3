@@ -47,7 +47,9 @@ Run after you have the metadata URI from `nft_metadata.ts`.
 **Transactions (devnet):**
 
 - **Mint:** [Explorer](https://explorer.solana.com/tx/5gsA3ewcZqdzj6fFDjF747J5odHvauAEM5XpjnYw2oqGfjB5Xf83wvYh3dDkhQj6cMxuhWiTVKPKN6yfJGSrqQV7?cluster=devnet)
-- **Transfer:** [Explorer](https://explorer.solana.com/tx/5YfRQmuKZSLXMRXLr5Q65HTFHZbksU4KShp7a3iBBg8VZkFvDgogAeyswtnUAnWYjbsNVSfPQ5Yta7FCKHGBx5JD?cluster=devnet&customUrl=http%3A%2F%2F127.0.0.1%3A8899)
+- **Transfer (without Core):** [Explorer](https://explorer.solana.com/tx/5YfRQmuKZSLXMRXLr5Q65HTFHZbksU4KShp7a3iBBg8VZkFvDgogAeyswtnUAnWYjbsNVSfPQ5Yta7FCKHGBx5JD?cluster=devnet&customUrl=http%3A%2F%2F127.0.0.1%3A8899)
+- **Transfer (with Core):** [Explorer](https://explorer.solana.com/tx/2FWrmPzhhgMWxKq4ZXPKVTT6zSBh7SrmgYqMf5AggWe7qp2QsskK8DPkBqMTAd3rd9U9H7enstvLJa2iPjTY8QQ?cluster=devnet)
+
 
 **Reflections about trading NFTs this way**
 
